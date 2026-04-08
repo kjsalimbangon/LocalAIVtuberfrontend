@@ -1,2 +1,9 @@
-# LocalAIVtuberfrontend
-Frontend of the fully local AI vtuber that can see your screen and talk in real time
+# React + TypeScript + Vite
+dev start up commands
+```
+cd frontend
+npm run dev
+
+cd backend
+python server.py
+```
